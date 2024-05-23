@@ -1,4 +1,4 @@
-# MacDonald-s-Food-Analysis-Dashboard
+# McDonald-s-Food-Analysis-Dashboard
 
 ![home](https://github.com/Manish7272/MacDonald_s-Food-Analysis-Dashboard/assets/71213166/af71240a-a124-4de9-99a4-c78c66e3f736)
 
