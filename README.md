@@ -1,4 +1,4 @@
-# McDonald-s-Food-Analysis-Dashboard
+# McDonald's Food items Analysis Dashboard
 
 ![Screenshot 2024-06-01 123933](https://github.com/Manish7272/MacDonald_s-Food-Analysis---Power-BI-Dashboard/assets/71213166/bbb8a0fb-f9b0-4288-8c57-9460de2d6ce7)
 
@@ -50,6 +50,9 @@
 ## Dietary Fibre
 ![10](https://github.com/Manish7272/MacDonald_s-Food-Analysis-Dashboard/assets/71213166/c0f77aa1-3ba2-451a-9a28-fcf2a2fed02a)
 
+<br>
+
+![Screenshot 2024-06-01 123911](https://github.com/Manish7272/McDonald_s-Food-items-Analysis---Power-BI-Dashboard/assets/71213166/1b0cbb48-8d1a-4d13-90bc-b8cb4430ddbd)
 
 <hr>
 <br>
