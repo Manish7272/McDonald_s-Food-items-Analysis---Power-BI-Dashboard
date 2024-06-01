@@ -5,9 +5,9 @@
 This dataset contains detailed nutritional information about various food items provided by McDonald's. The dataset includes 260 different food items categorized into 9 food categories. Each food item is described by its nutritional content, such as fat, calories, cholesterol, carbohydrates, sodium, dietary fiber, sugars, proteins, vitamins, and minerals.
 
 ## Dataset Summary
-
-- **Total Rows**: 260
-- **Total Columns**: 24
+      
+      - Total Rows: 260
+      - Total Columns: 24
 
 ## Column Descriptions
 
