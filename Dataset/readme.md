@@ -8,7 +8,6 @@ This dataset contains detailed nutritional information about various food items 
 
 - **Total Rows**: 260
 - **Total Columns**: 24
-- **No Duplicate Values**: The dataset is free from duplicate entries.
 
 ## Column Descriptions
 
@@ -111,6 +110,7 @@ This dataset contains detailed nutritional information about various food items 
 <br>
 <br>
 <br>
+
 <br>
 <hr>
 
