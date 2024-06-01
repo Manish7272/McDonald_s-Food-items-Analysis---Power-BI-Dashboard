@@ -74,4 +74,7 @@
 
 
 # Business benefits of the analysis :
-- By analyzing nutrition value of the food items by the McDonald’s, it will be easier to the customer to plan their meal according to their requirement. This analysis report can attract to the customer who is very health conscious and believe in the past criticism of the McDonald about unhealthy food items. Customer who is on special diet due to different health problems such as overweight, vitamins deficiency anemia etc can also enjoy the McDonald’s food items by checking nutrition values of the food items. This report may lead to company revenue growth. Also company reputation and legacy may save from further criticism over the food.  
+- By analyzing nutrition value of the food items by the McDonald’s, it will be easier to the customer to plan their meal according to their requirement.
+- This analysis report can attract to the customer who is very health conscious and believe in the past criticism of the McDonald about unhealthy food items.
+- Customer who is on special diet due to different health problems such as overweight, vitamins deficiency anemia etc can also enjoy the McDonald’s food items by checking nutrition values of the food items. <br>
+- This report may lead to company revenue growth. Also company reputation and legacy may save from further criticism over the food.  
